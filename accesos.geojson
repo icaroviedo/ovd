@@ -15,7 +15,7 @@
       }
     }
     "style:{
-        "marker-color":"red",
+        "marker-color":"#ff8c00",
     },
     {
       "type": "Feature",
