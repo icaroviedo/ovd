@@ -13,6 +13,9 @@
           43.36732522853245
         ]
       }
+    }
+    "style:{
+        "marker-color":"red",
     },
     {
       "type": "Feature",
